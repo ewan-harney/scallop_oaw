@@ -3,10 +3,12 @@ Data from experiments carried out with French and Norwegian Pecten maximus spat.
 
 Available:
 
-Proteomic data (gel images and spot sizes)
+**_Proteomic data_** (gel images and spot sizes)
 
-Survival data
+**_Survival data_**
 
-Phenotypic data (shell height, shell and body weight, condition index)
+**_Phenotypic data_** (shell height, shell and body weight, condition index)
 
-Metabolic rate (oxygen consumption)
+**_Metabolic rate_** (oxygen consumption)
+
+**_Appendix_** (image of experimental setup, example images used to collect survival and shell height data, and annotated gel images showing actin, myosin and paramyosin spots)
